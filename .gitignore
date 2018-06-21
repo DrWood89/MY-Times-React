@@ -2,6 +2,8 @@
 public/assets/bootstrap
 public/assets/jquery
 
+.vscode
+
 # Logs
 logs
 *.log
